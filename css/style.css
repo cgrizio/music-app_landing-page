@@ -103,7 +103,7 @@ a:hover{
         display:none!important;
     }
     .show-desktop{
-        display:block!important;
+        display:inline-block!important;
     }
 }
 
@@ -244,9 +244,9 @@ nav{
     align-items: center;
     min-height: 100vh;
     overflow: hidden;
-    background: #007991;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to top, #78ffd6, #007991);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to top, #78ffd6, #007991); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #247f8d;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #78ffd6, #247f8d);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #78ffd6, #247f8d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
     #section-1 .container-fluid{
