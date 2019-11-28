@@ -200,7 +200,7 @@ nav{
             transition: all ease 0.4s;
         }
 
-        nav.navbar li:nth-child(3) a.nav-link:hover{
+        nav.navbar li:nth-child(4) a.nav-link:hover{
             background-color:  #fff;
             color: rgb(0, 85, 88)!important;
         }
