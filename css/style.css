@@ -102,6 +102,9 @@ a:hover{
     .hide-desktop{
         display:none!important;
     }
+    .show-desktop{
+        display:block!important;
+    }
 }
 
 /* ----- BTN ----- */
